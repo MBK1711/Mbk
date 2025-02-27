@@ -7,8 +7,7 @@
     <title>Rose Flower</title>
 </head>
 <body>
-    <h1>Beautiful Rose Flower</h1>
+    <h1>Rose Flower</h1>
     <img src="https://example.com/rose.jpg" alt="Rose Flower" width="300">
-    <p>This is a beautiful rose flower.</p>
 </body>
 </html>
